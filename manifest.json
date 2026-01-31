@@ -15,7 +15,7 @@
   "content_scripts": [
     {
       "matches": ["https://www.npmjs.com/package/*"],
-      "js": ["content.js"],
+      "js": ["content.user.js"],
       "run_at": "document_idle"
     }
   ],

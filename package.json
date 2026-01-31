@@ -8,7 +8,7 @@
   "scripts": {
     "lint": "biome check .",
     "lint:write": "biome check --write .",
-    "release": "zip -r xnpm.zip assets/ manifest.json content.js"
+    "release": "zip -r xnpm.zip assets/ manifest.json content.user.js"
   },
   "devDependencies": {
     "@biomejs/biome": "2.3.13"

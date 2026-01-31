@@ -1,3 +1,14 @@
+// ==UserScript==
+// @name        xnpm
+// @namespace   https://github.com/tbeseda/xnpm-webextension
+// @version     1.0.0
+// @description Adds a link to view npm packages on npmx.dev
+// @author      tbeseda
+// @match       https://www.npmjs.com/package/*
+// @grant       none
+// @homepageURL https://github.com/tbeseda/xnpm-webextension
+// ==/UserScript==
+
 ;(() => {
   const path = window.location.pathname
   const match = path.match(/^\/package\/((?:@[^/]+\/)?[^/]+)/)
