@@ -1,6 +1,6 @@
 {
   "name": "xnpm-webextension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds a link to view npm packages on npmx.dev",
   "author": "tbeseda",
   "homepage_url": "https://github.com/tbeseda/xnpm-webextension",
@@ -8,7 +8,8 @@
   "scripts": {
     "lint": "biome check .",
     "lint:write": "biome check --write .",
-    "release": "zip -r xnpm.zip assets/ manifest.json content.user.js"
+    "zip": "zip -r xnpm.zip assets/ manifest.json content.user.js",
+    "version:set": "sh scripts/version.sh"
   },
   "devDependencies": {
     "@biomejs/biome": "2.3.13"

@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name        xnpm
 // @namespace   https://github.com/tbeseda/xnpm-webextension
-// @version     1.0.0
+// @version     1.0.1
 // @description Adds a link to view npm packages on npmx.dev
 // @author      tbeseda
+// @license     MIT
 // @match       https://www.npmjs.com/package/*
 // @grant       none
 // @homepageURL https://github.com/tbeseda/xnpm-webextension

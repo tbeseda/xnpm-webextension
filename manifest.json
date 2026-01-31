@@ -3,7 +3,7 @@
   "name": "xnpm",
   "short_name": "xnpm",
   "description": "Adds a link to view npm packages on npmx.dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "tbeseda",
   "homepage_url": "https://github.com/tbeseda/xnpm-webextension",
   "icons": {
