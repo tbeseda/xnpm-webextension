@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="20" fill="#1a1a1a"/>
+  
+  <!-- Arrow pointing right -->
+  <line x1="20" y1="64" x2="52" y2="64" stroke="#4ecdc4" stroke-width="12" stroke-linecap="round"/>
+  <polyline points="42,50 56,64 42,78" stroke="#4ecdc4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Forward slash -->
+  <line x1="92" y1="28" x2="68" y2="100" stroke="#ffffff" stroke-width="14" stroke-linecap="round"/>
+</svg>
