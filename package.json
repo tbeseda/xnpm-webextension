@@ -1,4 +1,10 @@
 {
+  "name": "xnpm-webextension",
+  "version": "1.0.0",
+  "description": "Adds a link to view npm packages on npmx.dev",
+  "author": "tbeseda",
+  "homepage_url": "https://github.com/tbeseda/xnpm-webextension",
+  "license": "MIT",
   "scripts": {
     "lint": "biome check .",
     "lint:write": "biome check --write .",
