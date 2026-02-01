@@ -4,9 +4,9 @@ Adds a link to view npm packages on [npmx.dev](https://npmx.dev) directly from n
 
 ![Screenshot](screenshot.png)
 
-[Firefox Install](#) <!-- TODO: Add link when published -->
+[Chrome Install](https://chromewebstore.google.com/detail/xnpm/jbefhdlaklodlhdjenihkfjjckkjgggp)
 
-[Chrome Install](#) <!-- TODO: Add link when published -->
+[Firefox Install](https://addons.mozilla.org/en-US/firefox/addon/xnpm/) (pending review)
 
 [User Script](https://greasyfork.org/en/scripts/564738-xnpm)
 
